@@ -1,13 +1,13 @@
 {
-  "UpdateYear": "2023",
+  "UpdateYear": "2024",
   "Contributors": {
     "Author_1": {
       "name": "김태하",
-      "school": "(강릉)남산초등학교"
+      "school": "모산초등학교"
     },
     "Author_2": {
       "name": "안종호",
-      "school": "동명초등학교"
+      "school": "모산초등학교"
     },
     "Author_3": {
       "name": "박은미",
